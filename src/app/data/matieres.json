@@ -1,0 +1,37 @@
+[
+  {
+    "id": "fr",
+    "nom": "Français",
+    "troncCommun": true
+  },
+  {
+    "id": "cg",
+    "nom": "Culture générale",
+    "troncCommun": true
+  },
+  {
+    "id": "ma",
+    "nom": "Maths et logique",
+    "troncCommun": true
+  },
+  {
+    "id": "sante",
+    "nom": "Sciences de la santé",
+    "troncCommun": false
+  },
+  {
+    "id": "eco",
+    "nom": "Économie",
+    "troncCommun": false
+  },
+  {
+    "id": "peda",
+    "nom": "Pédagogie",
+    "troncCommun": false
+  },
+  {
+    "id": "civ",
+    "nom": "Institutions et civisme",
+    "troncCommun": false
+  }
+]

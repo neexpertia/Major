@@ -1,0 +1,819 @@
+[
+  {
+    "id": "cg01",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle est la capitale du Burkina Faso ?",
+    "choix": [
+      "Bobo-Dioulasso",
+      "Ouagadougou",
+      "Koudougou",
+      "Ouahigouya"
+    ],
+    "reponse": 1,
+    "explication": "Ouagadougou est la capitale politique et administrative. Bobo-Dioulasso est la deuxième ville du pays.",
+    "astuce": "Ouaga gouverne, Bobo commerce."
+  },
+  {
+    "id": "cg02",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "En quelle année la Haute-Volta est-elle devenue le Burkina Faso ?",
+    "choix": [
+      "1960",
+      "1983",
+      "1984",
+      "1987"
+    ],
+    "reponse": 2,
+    "explication": "Le nom Burkina Faso a été adopté le 4 août 1984. 1960 est l'année de l'indépendance, 1983 celle de l'arrivée au pouvoir de Thomas Sankara.",
+    "astuce": "Un an après 1983 : 1984."
+  },
+  {
+    "id": "cg03",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle est la date de l'indépendance de la Haute-Volta ?",
+    "choix": [
+      "5 août 1960",
+      "11 décembre 1958",
+      "4 août 1984",
+      "1er janvier 1960"
+    ],
+    "reponse": 0,
+    "explication": "L'indépendance a été proclamée le 5 août 1960. Le 11 décembre 1958 correspond à la proclamation de la République, aujourd'hui fête nationale.",
+    "astuce": "Décembre, la République ; août, l'indépendance."
+  },
+  {
+    "id": "cg04",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Combien de pays ont une frontière avec le Burkina Faso ?",
+    "choix": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "reponse": 2,
+    "explication": "Six pays : Mali, Niger, Bénin, Togo, Ghana et Côte d'Ivoire.",
+    "astuce": "Deux au nord (Mali, Niger), quatre au sud et à l'est."
+  },
+  {
+    "id": "cg05",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel est le titre de l'hymne national du Burkina Faso ?",
+    "choix": [
+      "L'Abidjanaise",
+      "Le Ditanyè",
+      "La Volta",
+      "Faso Kan"
+    ],
+    "reponse": 1,
+    "explication": "Le Ditanyè, « Une seule nuit », est l'hymne national depuis 1984. L'Abidjanaise est l'hymne de la Côte d'Ivoire.",
+    "astuce": "Même année que le nom du pays : 1984."
+  },
+  {
+    "id": "cg06",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Dans quelle ville se trouve le siège de la Commission de l'UEMOA ?",
+    "choix": [
+      "Dakar",
+      "Abidjan",
+      "Lomé",
+      "Ouagadougou"
+    ],
+    "reponse": 3,
+    "explication": "La Commission de l'UEMOA siège à Ouagadougou. La BCEAO, la banque centrale, siège à Dakar.",
+    "astuce": "Commission à Ouaga, banque à Dakar."
+  },
+  {
+    "id": "cg07",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Le FESPACO est un festival consacré :",
+    "choix": [
+      "à la musique",
+      "au cinéma",
+      "à l'artisanat",
+      "au théâtre"
+    ],
+    "reponse": 1,
+    "explication": "Le FESPACO est le Festival panafricain du cinéma et de la télévision de Ouagadougou. L'artisanat, c'est le SIAO.",
+    "astuce": "FESPACO pour l'écran, SIAO pour l'artisan."
+  },
+  {
+    "id": "cg08",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quels pays forment l'Alliance des États du Sahel (AES) ?",
+    "choix": [
+      "Burkina Faso, Mali, Niger",
+      "Burkina Faso, Mali, Tchad",
+      "Niger, Tchad, Mauritanie",
+      "Burkina Faso, Niger, Bénin"
+    ],
+    "reponse": 0,
+    "explication": "L'AES réunit le Burkina Faso, le Mali et le Niger, à partir de la Charte du Liptako-Gourma signée en septembre 2023.",
+    "astuce": "Les trois pays du Liptako-Gourma."
+  },
+  {
+    "id": "cg09",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel fleuve est aussi appelé la Volta Noire ?",
+    "choix": [
+      "Le Nakambé",
+      "Le Nazinon",
+      "Le Mouhoun",
+      "Le Niger"
+    ],
+    "reponse": 2,
+    "explication": "Le Mouhoun est la Volta Noire. Le Nakambé est la Volta Blanche et le Nazinon la Volta Rouge.",
+    "astuce": "Mouhoun, Noire ; Nakambé, Blanche ; Nazinon, Rouge."
+  },
+  {
+    "id": "cg10",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Où se trouve le siège de l'Union africaine ?",
+    "choix": [
+      "Addis-Abeba",
+      "Abuja",
+      "Le Caire",
+      "Nairobi"
+    ],
+    "reponse": 0,
+    "explication": "Le siège de l'Union africaine est à Addis-Abeba, en Éthiopie.",
+    "astuce": "L'Union africaine, comme l'OUA avant elle, siège en Éthiopie."
+  },
+  {
+    "id": "cg11",
+    "matiere": "cg",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel est le plus long fleuve d'Afrique ?",
+    "choix": [
+      "Le Congo",
+      "Le Niger",
+      "Le Nil",
+      "Le Zambèze"
+    ],
+    "reponse": 2,
+    "explication": "Le Nil, environ 6 650 km, est le plus long fleuve d'Afrique. Le Congo est le plus puissant par son débit.",
+    "astuce": "Le plus long : le Nil. Le plus puissant : le Congo."
+  },
+  {
+    "id": "ma01",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Combien font 15 % de 2 000 FCFA ?",
+    "choix": [
+      "150",
+      "200",
+      "300",
+      "1 500"
+    ],
+    "reponse": 2,
+    "explication": "2 000 × 15 / 100 = 300 FCFA.",
+    "astuce": "10 % = 200, 5 % = 100, donc 15 % = 300."
+  },
+  {
+    "id": "ma02",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel nombre complète la suite : 2, 6, 12, 20, 30, … ?",
+    "choix": [
+      "40",
+      "42",
+      "44",
+      "36"
+    ],
+    "reponse": 1,
+    "explication": "Les écarts sont 4, 6, 8, 10 : ils augmentent de 2. Le suivant est 30 + 12 = 42.",
+    "astuce": "Regarde toujours les écarts entre les nombres."
+  },
+  {
+    "id": "ma03",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Un car parcourt 360 km en 4 h 30. Quelle est sa vitesse moyenne ?",
+    "choix": [
+      "72 km/h",
+      "80 km/h",
+      "90 km/h",
+      "85 km/h"
+    ],
+    "reponse": 1,
+    "explication": "4 h 30 = 4,5 h. Vitesse = 360 / 4,5 = 80 km/h.",
+    "astuce": "30 minutes = 0,5 heure, pas 0,3."
+  },
+  {
+    "id": "ma04",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Un article coûte 12 000 FCFA. Il est soldé à -25 %. Quel est le nouveau prix ?",
+    "choix": [
+      "9 000",
+      "9 500",
+      "8 000",
+      "3 000"
+    ],
+    "reponse": 0,
+    "explication": "25 % de 12 000 = 3 000. 12 000 − 3 000 = 9 000 FCFA.",
+    "astuce": "Piège classique : 3 000 est la remise, pas le prix."
+  },
+  {
+    "id": "ma05",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Combien font les 3/4 de 120 ?",
+    "choix": [
+      "80",
+      "90",
+      "100",
+      "40"
+    ],
+    "reponse": 1,
+    "explication": "120 / 4 = 30, puis 30 × 3 = 90.",
+    "astuce": "Divise d'abord par le bas, multiplie ensuite par le haut."
+  },
+  {
+    "id": "ma06",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "5 cahiers coûtent 1 250 FCFA. Combien coûtent 8 cahiers ?",
+    "choix": [
+      "1 750",
+      "2 000",
+      "2 250",
+      "1 800"
+    ],
+    "reponse": 1,
+    "explication": "Un cahier coûte 1 250 / 5 = 250 FCFA. 8 × 250 = 2 000 FCFA.",
+    "astuce": "Règle de trois : passe toujours par l'unité."
+  },
+  {
+    "id": "ma07",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle est la racine carrée de 144 ?",
+    "choix": [
+      "11",
+      "12",
+      "14",
+      "72"
+    ],
+    "reponse": 1,
+    "explication": "12 × 12 = 144.",
+    "astuce": "Apprends les carrés de 1 à 15 par cœur."
+  },
+  {
+    "id": "ma08",
+    "matiere": "ma",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel nombre suit : 3, 9, 27, 81, … ?",
+    "choix": [
+      "162",
+      "243",
+      "108",
+      "324"
+    ],
+    "reponse": 1,
+    "explication": "Chaque nombre est multiplié par 3 : 81 × 3 = 243.",
+    "astuce": "Si les écarts grossissent très vite, cherche une multiplication."
+  },
+  {
+    "id": "fr01",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle phrase est correctement écrite ?",
+    "choix": [
+      "Les fleurs que j'ai cueilli",
+      "Les fleurs que j'ai cueillies",
+      "Les fleurs que j'ai cueillis",
+      "Les fleurs que j'ai cueillie"
+    ],
+    "reponse": 1,
+    "explication": "Avec avoir, le participe s'accorde avec le complément d'objet direct placé avant. « Que » remplace « les fleurs », féminin pluriel.",
+    "astuce": "Pose la question « quoi ? » : si la réponse est avant le verbe, on accorde."
+  },
+  {
+    "id": "fr02",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel est le synonyme de « pérenne » ?",
+    "choix": [
+      "Passager",
+      "Durable",
+      "Fragile",
+      "Récent"
+    ],
+    "reponse": 1,
+    "explication": "Pérenne signifie qui dure longtemps. « Passager » est son contraire.",
+    "astuce": "Pérenne, comme une plante qui revient chaque année."
+  },
+  {
+    "id": "fr03",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Complétez : « Il faut que tu … à l'heure. »",
+    "choix": [
+      "viens",
+      "viendras",
+      "viennes",
+      "venais"
+    ],
+    "reponse": 2,
+    "explication": "« Il faut que » est toujours suivi du subjonctif : que tu viennes.",
+    "astuce": "Après « il faut que », pense « que je sois, que tu viennes »."
+  },
+  {
+    "id": "fr04",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel est le pluriel de « un œil » ?",
+    "choix": [
+      "des œils",
+      "des yeux",
+      "des œuils",
+      "des yeus"
+    ],
+    "reponse": 1,
+    "explication": "Le pluriel de œil est yeux. « Œils » existe seulement dans des mots composés comme « œils-de-bœuf ».",
+    "astuce": "Un œil, des yeux : irrégulier, à retenir."
+  },
+  {
+    "id": "fr05",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Complétez : « Mes sœurs … parties hier. »",
+    "choix": [
+      "sont",
+      "ont",
+      "sommes",
+      "est"
+    ],
+    "reponse": 0,
+    "explication": "Partir se conjugue avec l'auxiliaire être au passé composé : elles sont parties.",
+    "astuce": "Les verbes de mouvement (partir, arriver, venir) prennent être."
+  },
+  {
+    "id": "fr06",
+    "matiere": "fr",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel est le contraire de « prolixe » ?",
+    "choix": [
+      "Bavard",
+      "Concis",
+      "Confus",
+      "Généreux"
+    ],
+    "reponse": 1,
+    "explication": "Prolixe veut dire qui parle ou écrit trop longuement. Son contraire est concis.",
+    "astuce": "Prolixe = trop long ; concis = court et précis."
+  },
+  {
+    "id": "sa01",
+    "matiere": "sante",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel organe pompe le sang dans tout le corps ?",
+    "choix": [
+      "Le foie",
+      "Les poumons",
+      "Le cœur",
+      "Les reins"
+    ],
+    "reponse": 2,
+    "explication": "Le cœur est un muscle qui pompe le sang dans les vaisseaux. Les poumons assurent les échanges d'oxygène.",
+    "astuce": "Cœur = pompe ; poumons = air ; reins = filtre."
+  },
+  {
+    "id": "sa02",
+    "matiere": "sante",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Par quoi le paludisme est-il transmis à l'homme ?",
+    "choix": [
+      "L'eau souillée",
+      "La piqûre du moustique anophèle femelle",
+      "La mouche tsé-tsé",
+      "Le contact avec un malade"
+    ],
+    "reponse": 1,
+    "explication": "Le paludisme est transmis par la piqûre de l'anophèle femelle infectée par le parasite Plasmodium. La mouche tsé-tsé transmet la maladie du sommeil.",
+    "astuce": "Anophèle pour le palu, tsé-tsé pour le sommeil."
+  },
+  {
+    "id": "sa03",
+    "matiere": "sante",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Le vaccin BCG protège contre :",
+    "choix": [
+      "La rougeole",
+      "La tuberculose",
+      "La poliomyélite",
+      "Le tétanos"
+    ],
+    "reponse": 1,
+    "explication": "Le BCG (bacille de Calmette et Guérin) est le vaccin contre la tuberculose.",
+    "astuce": "BCG : B comme bacille, celui de la tuberculose."
+  },
+  {
+    "id": "sa04",
+    "matiere": "sante",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quel groupe sanguin est appelé « donneur universel » ?",
+    "choix": [
+      "AB positif",
+      "A négatif",
+      "O négatif",
+      "B positif"
+    ],
+    "reponse": 2,
+    "explication": "Le groupe O négatif peut être donné à tous les groupes pour les globules rouges. AB positif est le receveur universel.",
+    "astuce": "O donne à tous, AB reçoit de tous."
+  },
+  {
+    "id": "sa05",
+    "matiere": "sante",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle est la température normale du corps humain ?",
+    "choix": [
+      "Environ 35 °C",
+      "Environ 37 °C",
+      "Environ 39 °C",
+      "Environ 40 °C"
+    ],
+    "reponse": 1,
+    "explication": "La température normale est d'environ 37 °C. Au-delà de 38 °C, on parle de fièvre.",
+    "astuce": "37 normal, 38 fièvre."
+  },
+  {
+    "id": "ec01",
+    "matiere": "eco",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "L'inflation, c'est :",
+    "choix": [
+      "La baisse générale des prix",
+      "La hausse générale et durable des prix",
+      "La hausse des salaires",
+      "L'augmentation des impôts"
+    ],
+    "reponse": 1,
+    "explication": "L'inflation est une hausse générale et durable du niveau des prix. La baisse générale des prix s'appelle la déflation.",
+    "astuce": "Inflation : les prix « gonflent »."
+  },
+  {
+    "id": "ec02",
+    "matiere": "eco",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Que signifie le sigle PIB ?",
+    "choix": [
+      "Produit intérieur brut",
+      "Prix intérieur de base",
+      "Produit international brut",
+      "Plan d'investissement budgétaire"
+    ],
+    "reponse": 0,
+    "explication": "Le PIB, produit intérieur brut, mesure la richesse produite dans un pays pendant une période donnée.",
+    "astuce": "Intérieur : ce qui est produit sur le territoire."
+  },
+  {
+    "id": "ec03",
+    "matiere": "eco",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "La balance commerciale d'un pays compare :",
+    "choix": [
+      "Ses recettes et ses dépenses publiques",
+      "Ses exportations et ses importations de biens",
+      "Son épargne et ses investissements",
+      "Sa dette et son PIB"
+    ],
+    "reponse": 1,
+    "explication": "La balance commerciale = exportations − importations de marchandises. Elle est excédentaire si on exporte plus qu'on importe.",
+    "astuce": "Commerciale : ce qui entre et sort aux frontières."
+  },
+  {
+    "id": "ec04",
+    "matiere": "eco",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Quelle institution émet le franc CFA en Afrique de l'Ouest ?",
+    "choix": [
+      "La BAD",
+      "La BCEAO",
+      "La BOAD",
+      "Le FMI"
+    ],
+    "reponse": 1,
+    "explication": "La BCEAO, Banque centrale des États de l'Afrique de l'Ouest, émet le franc CFA de l'UEMOA. La BOAD est une banque de développement.",
+    "astuce": "BCEAO = banque centrale ; BOAD = banque de développement."
+  },
+  {
+    "id": "ec05",
+    "matiere": "eco",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Un droit de douane est principalement :",
+    "choix": [
+      "Une taxe sur les biens importés",
+      "Un impôt sur le revenu",
+      "Une aide aux exportateurs",
+      "Une taxe sur les salaires"
+    ],
+    "reponse": 0,
+    "explication": "Le droit de douane est une taxe perçue sur les marchandises qui entrent dans le pays.",
+    "astuce": "Douane = frontière = importations."
+  },
+  {
+    "id": "pe01",
+    "matiere": "peda",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "L'évaluation diagnostique se fait :",
+    "choix": [
+      "Avant l'apprentissage",
+      "Pendant l'apprentissage",
+      "À la fin de l'année",
+      "Uniquement aux examens"
+    ],
+    "reponse": 0,
+    "explication": "L'évaluation diagnostique, avant l'apprentissage, fait le point sur ce que les élèves savent déjà.",
+    "astuce": "Diagnostique = avant, comme le médecin avant de soigner."
+  },
+  {
+    "id": "pe02",
+    "matiere": "peda",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "L'évaluation formative sert surtout à :",
+    "choix": [
+      "Classer les élèves",
+      "Délivrer un diplôme",
+      "Aider l'élève à progresser pendant l'apprentissage",
+      "Sanctionner les erreurs"
+    ],
+    "reponse": 2,
+    "explication": "L'évaluation formative a lieu pendant l'apprentissage pour repérer les difficultés et ajuster l'enseignement.",
+    "astuce": "Formative = pendant, pour former."
+  },
+  {
+    "id": "pe03",
+    "matiere": "peda",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "L'évaluation sommative a lieu :",
+    "choix": [
+      "Avant la leçon",
+      "À la fin d'une séquence pour faire le bilan",
+      "Seulement à l'oral",
+      "Chaque minute"
+    ],
+    "reponse": 1,
+    "explication": "L'évaluation sommative fait la somme des acquis à la fin d'une période ou d'une séquence.",
+    "astuce": "Sommative = la somme, à la fin."
+  },
+  {
+    "id": "pe04",
+    "matiere": "peda",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Le mot « pédagogie » vient du grec et signifie à l'origine :",
+    "choix": [
+      "Conduire l'enfant",
+      "Punir l'enfant",
+      "Écrire des livres",
+      "Parler en public"
+    ],
+    "reponse": 0,
+    "explication": "Paidagôgos désignait l'esclave qui conduisait l'enfant à l'école : paidos, l'enfant, et agein, conduire.",
+    "astuce": "Péda- = enfant, -gogie = conduire."
+  },
+  {
+    "id": "ci01",
+    "matiere": "civ",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "La séparation des pouvoirs distingue les pouvoirs :",
+    "choix": [
+      "Législatif, exécutif et judiciaire",
+      "Militaire, civil et religieux",
+      "National, régional et communal",
+      "Politique, économique et social"
+    ],
+    "reponse": 0,
+    "explication": "La séparation des pouvoirs distingue le législatif (faire les lois), l'exécutif (les appliquer) et le judiciaire (juger).",
+    "astuce": "Faire, appliquer, juger."
+  },
+  {
+    "id": "ci02",
+    "matiere": "civ",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Qui a théorisé la séparation des pouvoirs dans « De l'esprit des lois » ?",
+    "choix": [
+      "Rousseau",
+      "Voltaire",
+      "Montesquieu",
+      "Victor Hugo"
+    ],
+    "reponse": 2,
+    "explication": "Montesquieu a publié « De l'esprit des lois » en 1748. Rousseau est l'auteur du « Contrat social ».",
+    "astuce": "Montesquieu, l'esprit des lois ; Rousseau, le contrat social."
+  },
+  {
+    "id": "ci03",
+    "matiere": "civ",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "En quelle année a été adoptée la Déclaration universelle des droits de l'homme ?",
+    "choix": [
+      "1789",
+      "1945",
+      "1948",
+      "1960"
+    ],
+    "reponse": 2,
+    "explication": "La DUDH a été adoptée par l'ONU le 10 décembre 1948. 1789 est la Déclaration française des droits de l'homme et du citoyen.",
+    "astuce": "1789 en France, 1948 à l'ONU."
+  },
+  {
+    "id": "ci04",
+    "matiere": "civ",
+    "chapitre": null,
+    "notion": null,
+    "concours": [],
+    "difficulte": 2,
+    "type": null,
+    "enonce": "Où se trouve le siège de l'Organisation des Nations unies ?",
+    "choix": [
+      "Genève",
+      "Paris",
+      "New York",
+      "Bruxelles"
+    ],
+    "reponse": 2,
+    "explication": "Le siège de l'ONU est à New York. Genève accueille de nombreuses agences de l'ONU.",
+    "astuce": "Siège à New York, agences à Genève."
+  }
+]

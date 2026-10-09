@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pol",
+    "nom": "Assistant de police",
+    "domaine": "Sécurité",
+    "niveau": "BEPC",
+    "joursAvantEpreuve": 30,
+    "candidatsAttendus": "≈ 180 000",
+    "coefficients": {
+      "fr": 1,
+      "cg": 2,
+      "ma": 1,
+      "civ": 3
+    }
+  },
+  {
+    "id": "dou",
+    "nom": "Contrôleur des douanes",
+    "domaine": "Finances",
+    "niveau": "BAC",
+    "joursAvantEpreuve": 40,
+    "candidatsAttendus": "≈ 95 000",
+    "coefficients": {
+      "fr": 2,
+      "cg": 1,
+      "ma": 2,
+      "eco": 3
+    }
+  },
+  {
+    "id": "inf",
+    "nom": "Infirmier d'État",
+    "domaine": "Santé",
+    "niveau": "BAC",
+    "joursAvantEpreuve": 55,
+    "candidatsAttendus": "≈ 120 000",
+    "coefficients": {
+      "fr": 2,
+      "cg": 1,
+      "ma": 1,
+      "sante": 3
+    }
+  },
+  {
+    "id": "ins",
+    "nom": "Instituteur adjoint certifié",
+    "domaine": "Éducation",
+    "niveau": "BEPC",
+    "joursAvantEpreuve": 70,
+    "candidatsAttendus": "≈ 210 000",
+    "coefficients": {
+      "fr": 3,
+      "cg": 1,
+      "ma": 2,
+      "peda": 2
+    }
+  }
+]
